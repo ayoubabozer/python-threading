@@ -22,11 +22,11 @@ python
 ## Running the tests
 get into the Dir `python-threading`.
 ```
- run `python threads.py`
+ run python threads.py
 ```
 
 
 ## Authors
 
-* **Ayoub Abozer** - *Initial work* - [LinkedIn](https://www.linkedin.com/in/ayoub-abu-zer-296b2020/)
+* **Ayoub Abozer** - [LinkedIn](https://www.linkedin.com/in/ayoub-abu-zer-296b2020/)
 
