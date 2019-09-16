@@ -21,8 +21,15 @@ python
 
 ## Running the tests
 get into the Dir `python-threading`.
+
 ```
- run python threads.py
+cd python-threading
+```
+
+and run
+
+```
+python threads.py
 ```
 
 
